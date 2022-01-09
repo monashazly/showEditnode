@@ -1,0 +1,5 @@
+const myFunctions=require('./utils/myFunctions')
+// myFunctions.ShowAllData()
+myFunctions.Adduser({ "name": "walid", "age": 24 })
+myFunctions.DeleteUser(1641751090460)
+myFunctions.ShowUser(1641751089207)
